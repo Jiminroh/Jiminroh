@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--소개-->
 <h3>:raised_hands: Introduction </h3>
 안녕하세요! 노지민입니다. <br/>
-저는 Computer Vision분야에 관심이 많으며 ML engineer가 되기위해 공부중입니다!
+저는 Computer Vision분야에 관심이 많으며 ML/DL을 공부중입니다!
 <br/><br/>
  <!--기술스택-->
    <h3>:four_leaf_clover:Skill </h3>
