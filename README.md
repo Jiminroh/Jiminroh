@@ -47,5 +47,4 @@ Here are some ideas to get you started:
 - 📨 shwlals96@gmail.com
 
 ### Blog & Notion 
-- 😳 [Notion](https://actually-risk-c69.notion.site/JIMIN-ROH-96241d450314404b945127225c5a8c2a)
 - 📖 [Blog](https://jm-develope-note.tistory.com/)
