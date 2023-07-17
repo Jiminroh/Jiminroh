@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <!--소개-->
 <h3>:raised_hands: Introduction </h3>
 안녕하세요! 노지민입니다. <br/>
-저는 Computer Vision분야에 관심이 많으며 ML/DL을 공부중입니다!
+저는 Computer Vision분야 중 3D vision에 관심이 많으며<br>
+현재는 3D Perception, 3D Reconstruction을 공부중입니다!
 <br/><br/>
  <!--기술스택-->
    <h3>:four_leaf_clover:Skill </h3>
@@ -48,3 +49,4 @@ Here are some ideas to get you started:
 
 ### Blog & Notion 
 - 📖 [Blog](https://jm-develope-note.tistory.com/)
+- 📖 [Portfolio](https://jiminroh.github.io/)
