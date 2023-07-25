@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 ### Contect
 - 📨 shwlals96@gmail.com
 
-### Blog & Notion 
-- 📖 [Blog](https://jm-develope-note.tistory.com/)
+### Notion & Portfolio
+- 📖 [Notion](https://actually-risk-c69.notion.site/Paper-reviews-caedb8b98c5f464085016db11fe5d734?pvs=4)
 - 📖 [Portfolio](https://jiminroh.github.io/)
