@@ -48,5 +48,5 @@ Here are some ideas to get you started:
 - 📨 shwlals96@gmail.com
 
 ### Notion & Portfolio
-- 📖 [Notion](https://actually-risk-c69.notion.site/Paper-reviews-caedb8b98c5f464085016db11fe5d734?pvs=4)
+- 📖 [Notion](https://rohjimin.notion.site/Paper-reviews-caedb8b98c5f464085016db11fe5d734?pvs=4)
 - 📖 [Portfolio](https://jiminroh.github.io/)
