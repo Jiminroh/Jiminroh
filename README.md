@@ -44,9 +44,18 @@ Here are some ideas to get you started:
 <br/><br/>
 </div>
 
-### Contect
-- 📨 shwlals96@gmail.com
+---
+### Project 
+- 🚗 [Car Damaged Detection](https://github.com/SOLOv6/solov6-overview) 
+- ♻️ [Recycling Classfication](https://github.com/Jiminroh/KMU_history/tree/main/4-1.%20Deep%20Learning/Project/Code) 
+- 👷‍♂️ [Danger Detection](https://github.com/Jiminroh/KMU_history/tree/main/4-1.%20Vision%20AI/Project) 
 
+---
 ### Notion & Portfolio
 - 📖 [Notion](https://rohjimin.notion.site/JIMIN-ROH-d24625b713a24ac79d7403d7a22ba2fe?pvs=4)
 - 📖 [Portfolio](https://jiminroh.github.io/)
+
+---
+### Contect
+- 📨 shwlals96@gmail.com
+
