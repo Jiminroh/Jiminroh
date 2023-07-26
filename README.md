@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-### Project 
+### Project Repo
 - 🚗 [Car Damaged Detection](https://github.com/SOLOv6/solov6-overview) 
 - ♻️ [Recycling Classfication](https://github.com/Jiminroh/KMU_history/tree/main/4-1.%20Deep%20Learning/Project/Code) 
 - 👷‍♂️ [Danger Detection](https://github.com/Jiminroh/KMU_history/tree/main/4-1.%20Vision%20AI/Project) 
